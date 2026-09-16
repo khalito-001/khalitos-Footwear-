@@ -18,9 +18,9 @@ Example: https://your-username.github.io/shoe-palm/
 - CSS
 
 ## Author
-Created by [Your Full Name]  
+Created by [Yahaya Khalid]  
 Computer Science / IT student at University of Ibadan
 
 ## Contact
-Phone: [Your Phone Number]  
-Email: [Your Email]# khalitos-Footwear-
+Phone: [09124262425]  
+Email: [khalitoayo123@gmail.com]# khalitos-Footwear-
